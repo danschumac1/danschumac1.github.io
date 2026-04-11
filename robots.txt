@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://danschumac1.github.io/danschumac1/sitemap.xml
