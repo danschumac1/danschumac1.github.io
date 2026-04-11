@@ -1,0 +1,19 @@
+# Replace these lines:
+cv_pdf: /assets/pdf/Schumacher_CV.pdf # (Upload your CV later or comment this out)
+email: daniel.schumacher@utsa.edu
+
+# Hide or Remove these:
+# inspirehep_id: 1010907  <-- Add a # to comment it out
+# rss_icon: true          <-- Add a # to comment it out or delete it
+
+# Update Google Scholar:
+scholar_userid: 2Z_0u5QM1EAAAAJ
+
+# Add LinkedIn (Add this line anywhere in the list):
+linkedin_username: dan-schumacher-data
+
+# Replace the Custom Social (Einstein) with Goodreads:
+custom_social:
+  logo: https://www.goodreads.com/favicon.ico
+  title: Goodreads
+  url: https://www.goodreads.com/user/show/32359149-dan-schumacher
