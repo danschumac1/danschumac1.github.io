@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href="https://www.utsa.edu/">UT San Antonio</a>. Human Centered Natural Language Processing Lab.
 
@@ -14,7 +14,7 @@ selected_papers: false
 social: true 
 
 announcements:
-  enabled: true 
+  enabled: false 
   scrollable: true 
   limit: 5 
 

@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "11ee51e33cded6c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb60e976d0fdfa5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a79edbe09b45e8a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/boxing/2026-10-20-keep-hands-up.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-10-20-keep-hands-up"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf9f626c6e8305ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "e668b66d0dfa0ef6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "721bd3d2352d0923",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6f21512ee1543baa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d6081a02aaba3265",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ccf8c634acf09898",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cbea4811939e102",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7d33e605166911d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/boxing/2026-10-20-keep-hands-up.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-10-20-keep-hands-up"
+            }
+          },
+          {
+            "id": "bf3e27d6830179ba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/boxing/2026-10-20-keep-hands-up.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-10-20-keep-hands-up"
+            }
+          },
+          {
+            "id": "aa883a5059fddb58",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c3758442a7f239d1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6b8f946f91db8be0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/boxing/2026-10-20-keep-hands-up.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-10-20-keep-hands-up"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a79edbe09b45e8a7",
+  "lastOpenFiles": [
+    "_posts/boxing/2026-10-20-learned-from-boxing.md",
+    "_posts/boxing/2026-10-20-keep-hands-up.md",
+    "_posts/game-development/2026-10-20-my-first-game-jam.md",
+    "_site/sitemap.xml",
+    "_site/feed.xml",
+    "_site/robots.txt",
+    "_site/blog/tag/learning/index.html",
+    "_site/blog/tag/wisdom/index.html",
+    "_site/blog/tag/unity/index.html",
+    "_site/blog/tag/sparring/index.html",
+    "_site/blog/tag/training/index.html",
+    "_site/blog/tag/mistakes/index.html",
+    "_site/blog/tag/game-jam/index.html",
+    "_site/assets/img/blog/gamedev/chudly_main_menu.png",
+    "_site/assets/img/blog/gamedev/Chudly_lvl5.gif",
+    "_site/assets/img/blog/boxing/drophands2.jpg",
+    "_site/assets/img/blog/boxing/straight_drophands.jpg",
+    "_site/assets/img/template_error.png",
+    "_site/assets/img/prof_pic.jpg",
+    "_site/assets/img/astro_boxer.png",
+    "_site/TROUBLESHOOTING.md",
+    "_site/SEO.md",
+    "_site/QUICKSTART.md",
+    "_site/Pasted image 20261020225526.png",
+    "_site/Pasted image 20261020225519.png",
+    "_site/CLAUDE.md",
+    "_site/ANALYTICS.md",
+    "_site/AGENTS.md",
+    "assets/img/blog/boxing/drophands2.jpg",
+    "_pages/GameDev.md",
+    "_pages/About.md",
+    "_pages/about.md",
+    "_pages/Boxing.md",
+    "_pages/Publications.md",
+    "_pages/CV.md",
+    "_pages/Teaching.md",
+    "_pages/Research.md",
+    "_site/2026-10-20-keep-hands-up.md",
+    "_site/Untitled.md",
+    "_pages/publications.md"
+  ]
+}
