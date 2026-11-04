@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/boxing/2026-10-20-keep-hands-up.md",
+                "file": "_posts/research/2026-11-03-EMNLP-Budapest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-20-keep-hands-up"
+              "title": "2026-11-03-EMNLP-Budapest"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -183,10 +185,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "a79edbe09b45e8a7",
+  "active": "721bd3d2352d0923",
   "lastOpenFiles": [
-    "_posts/boxing/2026-10-20-learned-from-boxing.md",
+    "assets/img/blog/research/IMG_5152.jpg",
+    "assets/img/blog/research/IMG_5180.jpg",
+    "assets/img/blog/research/IMG_5174.jpg",
+    "assets/img/blog/research/IMG_5187.jpg",
+    "assets/img/blog/research/IMG_5185.jpg",
+    "assets/img/blog/research/IMG_5216.jpg",
+    "assets/img/blog/research/IMG_5204.jpg",
     "_posts/boxing/2026-10-20-keep-hands-up.md",
+    "_posts/boxing/2026-10-20-learned-from-boxing.md",
     "_posts/game-development/2026-10-20-my-first-game-jam.md",
     "_site/sitemap.xml",
     "_site/feed.xml",
@@ -202,18 +211,12 @@
     "_site/assets/img/blog/gamedev/Chudly_lvl5.gif",
     "_site/assets/img/blog/boxing/drophands2.jpg",
     "_site/assets/img/blog/boxing/straight_drophands.jpg",
-    "_site/assets/img/template_error.png",
-    "_site/assets/img/prof_pic.jpg",
-    "_site/assets/img/astro_boxer.png",
     "_site/TROUBLESHOOTING.md",
     "_site/SEO.md",
     "_site/QUICKSTART.md",
-    "_site/Pasted image 20261020225526.png",
-    "_site/Pasted image 20261020225519.png",
     "_site/CLAUDE.md",
     "_site/ANALYTICS.md",
     "_site/AGENTS.md",
-    "assets/img/blog/boxing/drophands2.jpg",
     "_pages/GameDev.md",
     "_pages/About.md",
     "_pages/about.md",
