@@ -269,9 +269,6 @@ jekyll-archives:
       tags: "/blog/:type/:name/"
       categories: "/blog/:type/:name/"
 
-display_tags: [research, llms, gamedev, boxing, reflections]
- # these tags will be displayed on the front page of your blog
-display_categories: [research, game-development, boxing] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
