@@ -22,19 +22,20 @@ That said, I've never felt more patriotic about the United States than when it c
 
 The highlight of our trip as a tourist was the sight-seeing package we purchased. It included a Chicos performance in the Puszta Horse Show and a guided tour of Kecskemét. To keep things brief, I’ll include pictures limit my discussion here. 
 
-![EMNLP 2026](/assets/img/blog/research/IMG_5152.jpg)
+<div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+  <img src="/assets/img/blog/research/IMG_5152.jpg" width="500">
+  <img src="/assets/img/blog/research/IMG_5174.jpg" width="500">
+  <img src="/assets/img/blog/research/IMG_5180.jpg" width="500">
+  <img src="/assets/img/blog/research/IMG_5185.jpg" width="500">
+  <img src="/assets/img/blog/research/IMG_5187.jpg" width="500">
+  <img src="/assets/img/blog/research/IMG_5204.jpg" width="500">
+  <img src="/assets/img/blog/research/IMG_5216.jpg" width="500">
+</div>
 
-![Budapest](/assets/img/blog/research/IMG_5174.jpg)
 
-![Budapest](/assets/img/blog/research/IMG_5180.jpg)
 
-![Budapest](/assets/img/blog/research/IMG_5185.jpg)
+<div style="height: 30px;"></div>
 
-![Budapest](/assets/img/blog/research/IMG_5187.jpg)
-
-![Budapest](/assets/img/blog/research/IMG_5204.jpg)
-
-![Budapest](/assets/img/blog/research/IMG_5216.jpg)
 ## The Conference. 
 I learned so much. Let's split it into subsections
 ### The First Keynote
@@ -47,6 +48,9 @@ In the opening ceremony the keynote speaker, Pascale Fung, divided NLP/CL resear
 | Deep Learning | 2010s       | Neural models and probing networks                        |
 | LLMs          | 2020s       | General-purpose language models                           |
 | Understanding | Now -20??   | Understanding LLMs and using them to study human language |
+
+
+
 * **Natural Language Processing (NLP)**: ***Developing*** computational ***systems*** that can process, understand, and generate human language.
 
 * **Computational Linguistics (CL)**: Using computational methods to ***study how human*** language works, including its structure, meaning, and use.
@@ -83,6 +87,8 @@ As for broader trends, and this could just be a reflection of which parts of the
 - **vLLM and grounding LLMs.** There was plenty of work in these areas, although they're not particularly interesting to me (at the moment at least).
     
 - **Interpretability.** I'm interested in this area, but I also suspect it's especially vulnerable to AI slop.  To my surprise, my favorite interpretability research was presented by guest speaker Michael Franke during the Language Games workshop (LM Playschool: Improving Language Models through Learning from Dialogue Game Interaction). His talk explored how much language models can infer about the hidden factors behind human communication, such as a speaker's motivations, emotions, and intentions, based on what they say. I plan on reading [his paper]([On Emergent Social World Models — Evidence for Functional Integration of Theory of Mind and Pragmatic Reasoning in Language Models - ACL Anthology](https://aclanthology.org/2026.acl-long.1735/?utm_source=chatgpt.com)) when (sadly) time permits.
+
+
 ### Socializing
 Perhaps, the thing I look forward to most when attending conferences is meeting people. The winner of the Dan's-BFF Award this year goes to Dr. Safa Messaoud! Congratulations, you win, well, nothing tangible, just my thanks. 
 
@@ -99,6 +105,9 @@ Want to shout out the other great people I met!
 * Oteo Mamo -- We had good chats.
 * Philip Müller -- Most likely person I'd call and hang out with if we lived in the same city. He told me he'd go to my poster and he did! And I forgot to go to his! Please forgive me. 
 * Many others! If I forgot I'm sorry! This blog is already getting too long! 
+
+
+
 ### What Place Does Gen-AI Have in the Research Process?
 There is a dichotomy when it comes to using LLMs in research. AI has made it easier than ever to submit papers. EMNLP received over 17,000 submissions this year, roughly double that of last year. I suspect a large part of this increase is driven by AI-generated research. I'm not talking about using AI to rewrite a paragraph or suggest an appropriate statistical test. I'm talking about using LLMs to automate the entire pipeline.
 
@@ -121,8 +130,11 @@ There are efforts to address these problems, including stricter desk rejections,
 In the music community, teacher's offer their students this advice:
 
 > Student: "How can I play faster?"
+>
 > Teacher: "Practice slower."
+>
 > Student: "What?"
+>
 > Teacher: "Slow is fast, and fast is slow."
 
 Maybe academic research could benefit from slowing down a little. Fewer papers, more time spent thinking, and more careful reviewing. 
