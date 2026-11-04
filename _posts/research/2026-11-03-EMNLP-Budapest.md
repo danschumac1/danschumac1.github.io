@@ -86,7 +86,7 @@ As for broader trends, and this could just be a reflection of which parts of the
     
 - **vLLM and grounding LLMs.** There was plenty of work in these areas, although they're not particularly interesting to me (at the moment at least).
     
-- **Interpretability.** I'm interested in this area, but I also suspect it's especially vulnerable to AI slop.  To my surprise, my favorite interpretability research was presented by guest speaker Michael Franke during the Language Games workshop (LM Playschool: Improving Language Models through Learning from Dialogue Game Interaction). His talk explored how much language models can infer about the hidden factors behind human communication, such as a speaker's motivations, emotions, and intentions, based on what they say. I plan on reading [his paper]([On Emergent Social World Models — Evidence for Functional Integration of Theory of Mind and Pragmatic Reasoning in Language Models - ACL Anthology](https://aclanthology.org/2026.acl-long.1735/?utm_source=chatgpt.com)) when (sadly) time permits.
+- **Interpretability.** I'm interested in this area, but I also suspect it's especially vulnerable to AI slop.  To my surprise, my favorite interpretability research was presented by guest speaker Michael Franke during the Language Games workshop (LM Playschool: Improving Language Models through Learning from Dialogue Game Interaction). His talk explored how much language models can infer about the hidden factors behind human communication, such as a speaker's motivations, emotions, and intentions, based on what they say. I plan on reading his paper [On Emergent Social World Models](https://aclanthology.org/2026.acl-long.1735/) when (sadly) time permits.
 
 
 ### Socializing
@@ -139,7 +139,7 @@ In the music community, teacher's offer their students this advice:
 
 Maybe academic research could benefit from slowing down a little. Fewer papers, more time spent thinking, and more careful reviewing. 
 
-Or maybe that is too optimistic. With craziness like the [Huggingface hack]([OpenAI rogue agent breach of Hugging Face - Wikipedia](https://en.wikipedia.org/wiki/OpenAI_rogue_agent_breach_of_Hugging_Face), and AI's recent [dominance in mathematics]([List of mathematical discoveries made with artificial intelligence - Wikipedia](https://en.wikipedia.org/wiki/List_of_mathematical_discoveries_made_with_artificial_intelligence)),  we see how dangerous and how useful this technology can be. 
+Or maybe that's too optimistic. With incidents like the [Hugging Face breach](https://en.wikipedia.org/wiki/OpenAI_rogue_agent_breach_of_Hugging_Face) and AI's recent [advances in mathematics](https://en.wikipedia.org/wiki/List_of_mathematical_discoveries_made_with_artificial_intelligence), we're seeing just how powerful this technology can be, both for better and for worse.
 
 ### Closing Thoughts
 
