@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/boxing/";
           },
-        },{id: "post-my-first-heavyweight-sparring-session",
+        },{id: "post-do-border-collies-dream-of-steered-sheep",
+        
+          title: "Do Border Collies Dream of Steered Sheep?",
+        
+        description: "Building an RTS game with autonomous sheep, flocking behaviors, and some unexpected feedback from my dog.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/SheepAreReal/";
+          
+        },
+      },{id: "post-my-first-heavyweight-sparring-session",
         
           title: "My First Heavyweight Sparring Session",
         
