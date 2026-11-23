@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b76a39d4097ab871",
+        "id": "2bb7c5a1775eef0e",
         "type": "tabs",
         "children": [
           {
-            "id": "462ccb75372f92d5",
+            "id": "a1017f1a9c78ee9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -185,18 +185,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "462ccb75372f92d5",
+  "active": "a1017f1a9c78ee9a",
   "lastOpenFiles": [
+    "_posts/game-development/2026-10-20-my-first-game-jam.md",
+    "_posts/game-development/2026-11-22-SheepAreReal.md",
+    "_posts/boxing/2026-11-22-FirstHeavyweightSpar.md",
+    "_posts/boxing/2026-10-20-learned-from-boxing.md",
     "assets/img/blog/boxing/slip.png",
     "_posts/boxing/2026-10-20-keep-hands-up.md",
-    "_posts/boxing/2026-10-20-learned-from-boxing.md",
     "assets/img/blog/boxing/low.png",
-    "_posts/boxing/2026-11-22-FirstHeavyweightSpar.md",
     "Pasted image 20261122224412.png",
     "Pasted image 20261122224121.png",
     "assets/img/blog/boxing/face_up.png",
-    "_posts/game-development/My Sheep Are Real Enough to Make a Border Collie Jealous.md",
-    "_posts/game-development/2026-10-20-my-first-game-jam.md",
     "Pasted image 20261020225519.png",
     "Pasted image 20261020225526.png",
     "QUICKSTART.md",
@@ -206,7 +206,6 @@
     "assets/img/template_error.png",
     "assets/img/prof_pic.jpg",
     "assets/img/astro_boxer.png",
-    "assets/img/blog/research/IMG_5185.jpg",
     "_posts/research/2026-11-03-EMNLP-Budapest.md",
     "assets/img/blog/gamedev/ChudlySpam 2.heic",
     "assets/img/blog/gamedev/ChudlySpam 1.heic",
