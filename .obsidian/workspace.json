@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "eb60e976d0fdfa5a",
+        "id": "b76a39d4097ab871",
         "type": "tabs",
         "children": [
           {
-            "id": "a79edbe09b45e8a7",
+            "id": "462ccb75372f92d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/research/2026-11-03-EMNLP-Budapest.md",
+                "file": "_posts/boxing/2026-11-22-FirstHeavyweightSpar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-11-03-EMNLP-Budapest"
+              "title": "2026-11-22-FirstHeavyweightSpar"
             }
           }
         ]
@@ -185,32 +185,39 @@
       "bases:Create new base": false
     }
   },
-  "active": "a79edbe09b45e8a7",
+  "active": "462ccb75372f92d5",
   "lastOpenFiles": [
+    "assets/img/blog/boxing/slip.png",
+    "_posts/boxing/2026-10-20-keep-hands-up.md",
+    "_posts/boxing/2026-10-20-learned-from-boxing.md",
+    "assets/img/blog/boxing/low.png",
+    "_posts/boxing/2026-11-22-FirstHeavyweightSpar.md",
+    "Pasted image 20261122224412.png",
+    "Pasted image 20261122224121.png",
+    "assets/img/blog/boxing/face_up.png",
+    "_posts/game-development/My Sheep Are Real Enough to Make a Border Collie Jealous.md",
+    "_posts/game-development/2026-10-20-my-first-game-jam.md",
+    "Pasted image 20261020225519.png",
+    "Pasted image 20261020225526.png",
+    "QUICKSTART.md",
+    "README.md",
+    "SEO.md",
+    "TROUBLESHOOTING.md",
+    "assets/img/template_error.png",
+    "assets/img/prof_pic.jpg",
+    "assets/img/astro_boxer.png",
+    "assets/img/blog/research/IMG_5185.jpg",
+    "_posts/research/2026-11-03-EMNLP-Budapest.md",
+    "assets/img/blog/gamedev/ChudlySpam 2.heic",
+    "assets/img/blog/gamedev/ChudlySpam 1.heic",
+    "assets/img/blog/gamedev/ChudlySpam.heic",
     "_site/assets/pdf/Schumacher_CV.pdf",
     "assets/pdf/Schumacher_CV.pdf",
     "_site/assets/pdf/CV_Dan.pdf",
     "assets/pdf/CV_Dan.pdf",
     "_site/blog/2026/EMNLP-Budapest/index.html",
     "_site/blog/2026/EMNLP-Budapest",
-    "_site/assets/img/blog/research/IMG_5216.jpg",
-    "_site/assets/img/blog/research/IMG_5204.jpg",
-    "_site/assets/img/blog/research/IMG_5187.jpg",
-    "_site/assets/img/blog/research/IMG_5185.jpg",
-    "_site/assets/img/blog/research/IMG_5180.jpg",
-    "_site/assets/img/blog/research/IMG_5174.jpg",
-    "_site/assets/img/blog/research/IMG_5152.jpg",
     "_site/assets/img/blog/research",
-    "_site/blog/category/research/index.html",
-    "_site/blog/category/research",
-    "_site/blog/tag/ai/index.html",
-    "_site/blog/tag/ai",
-    "assets/img/blog/research/IMG_5152.jpg",
-    "assets/img/blog/research/IMG_5180.jpg",
-    "assets/img/blog/research/IMG_5174.jpg",
-    "_posts/boxing/2026-10-20-keep-hands-up.md",
-    "_posts/boxing/2026-10-20-learned-from-boxing.md",
-    "_posts/game-development/2026-10-20-my-first-game-jam.md",
     "_site/TROUBLESHOOTING.md",
     "_site/SEO.md",
     "_site/QUICKSTART.md",
@@ -225,8 +232,6 @@
     "_pages/CV.md",
     "_pages/Teaching.md",
     "_pages/Research.md",
-    "_site/2026-10-20-keep-hands-up.md",
-    "_site/Untitled.md",
-    "_pages/publications.md"
+    "_site/2026-10-20-keep-hands-up.md"
   ]
 }
