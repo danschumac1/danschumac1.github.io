@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/boxing/";
           },
-        },{id: "post-emnlp-2026-budapest",
+        },{id: "post-my-first-heavyweight-sparring-session",
+        
+          title: "My First Heavyweight Sparring Session",
+        
+        description: "Getting back into boxing after COVID, sparring a heavyweight for the first time, and learning why conditioning matters.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/FirstHeavyweightSpar/";
+          
+        },
+      },{id: "post-emnlp-2026-budapest",
         
           title: "EMNLP 2026 Budapest.",
         
