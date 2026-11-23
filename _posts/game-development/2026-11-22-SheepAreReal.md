@@ -20,7 +20,10 @@ I explained how vector steering works to my dad. Basically just pushing objects 
 
 I asked ChatGPT to make a graphic showing how the vector steering works. Individually, these behaviors aren't very impressive, but in combination they can be pretty convincing and make the sheep feel alive. 
 
-![ChatGPT generated sheep steering guide](/assets/img/blog/gamedev/steeringoverview.png)
+
+
+![Sheep steering guide](/assets/img/blog/gamedev/steeringoverview.png)
+
 
 ## Demo
 Here is a demo of the progress I've made.
@@ -48,4 +51,6 @@ My dog is so smart...  I swear *she never watches screens for anything else*. Sh
 ## Fun Moment
 I also forgot to share a moment from the game jam that made me really happy. One of the participants at the game jam was having a grand time seeing how many times she could kill Chudly by mashing E. Wasn't what we intended, but she probably had more fun than anyone else with our game.
 
-![User kills Chudly over and over](/assets/img/blog/gamedev/ChudlySpam.png)
+
+![Chudly getting repeatedly killed](/assets/img/blog/gamedev/ChudlySpam.png)
+

@@ -37,3 +37,11 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+
+/* Limit blog post image sizes */
+/* Limit blog post image sizes */
+.post article img {
+    max-width: 500px;
+    width: 100%;
+    height: auto;
+}
