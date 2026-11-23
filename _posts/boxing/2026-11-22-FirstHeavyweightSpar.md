@@ -32,13 +32,13 @@ I sparred Friday and Saturday and had the opportunity to spar a heavy weight for
 Last post I mentioned these two goals. And I think I did a good job of this. 
 
 1. When you are getting overwhelmed don't put your head down! You can't see what punches are coming and that is dangerous.
-![Keeping face up in the corner](assets/img/blog/boxing/face_up.png)
+![Keeping face up in the corner](/assets/img/blog/boxing/face_up.png)
 2. I need to use my legs when I roll. Got to get down low. 
-![Getting low during rolls](assets/img/blog/boxing/low.png)
+![Getting low during rolls](/assets/img/blog/boxing/low.png)
 
 Now that being said, I was incredibly clumsy. Even slipping completely. This happened because my coach encourages me to step on or over the opponents foot when their right foot is in front. I did this, but Eric is so strong he just moved his foot and took me with him. I don't think I'll be doing it again.
 
-![What caused the slip](assets/img/blog/boxing/slip.png)
+![What caused the slip](/assets/img/blog/boxing/slip.png)
 
 ## Going Forward
 The biggest lesson though, is *I need to work on my cardio* I'd really struggle to do a two minute round. And back to back rounds right now seem impossible. I think that my conditioning is the real limiting factor in implementing all the things that Joseph and I work on. Don't want to let him down. That means road work. Goal this going forward (on top of regular boxing classes) is to do a 2-3 mile run Tuesdays, and hill sprints Thursday. Wish me luck. Thanks again Eric. You rock. 
